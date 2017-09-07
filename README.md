@@ -3,6 +3,7 @@ perl lib
 
 # usage
 .bashrc
-`export PERL5LIB=[includedir]`
+`export PERL5LIB=[includedir]`  
 \*.pl
-`require 'deadfish.pl';`
+`require 'deadfish.pl';`  
+

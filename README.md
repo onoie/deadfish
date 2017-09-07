@@ -14,3 +14,9 @@ perl lib
 # dependency
 * cpanminus
 * perl-carton
+
+# run
+```
+carton install
+carton exec -- plackup app.psgi
+```
